@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04.SoftUni Coffee Supplies\bin\Debug\04.SoftUni Coffee Supplies.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04.SoftUni Coffee Supplies\bin\Debug\04.SoftUni Coffee Supplies.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04.SoftUni Coffee Supplies\bin\Debug\04.SoftUni Coffee Supplies.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04.SoftUni Coffee Supplies\obj\Debug\04.SoftUni Coffee Supplies.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04.SoftUni Coffee Supplies\obj\Debug\04.SoftUni Coffee Supplies.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04.SoftUni Coffee Supplies\obj\Debug\04.SoftUni Coffee Supplies.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.SoftUni Coffee Supplies\bin\Debug\04.SoftUni Coffee Supplies.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.SoftUni Coffee Supplies\obj\Debug\04.SoftUni Coffee Supplies.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.SoftUni Coffee Supplies\obj\Debug\04.SoftUni Coffee Supplies.pdb

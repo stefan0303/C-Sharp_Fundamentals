@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\05.Convert_from_base-N_to_base-10\bin\Debug\05.Convert_from_base-N_to_base-10.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\05.Convert_from_base-N_to_base-10\bin\Debug\05.Convert_from_base-N_to_base-10.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\05.Convert_from_base-N_to_base-10\bin\Debug\05.Convert_from_base-N_to_base-10.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\05.Convert_from_base-N_to_base-10\obj\Debug\05.Convert_from_base-N_to_base-10.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\05.Convert_from_base-N_to_base-10\obj\Debug\05.Convert_from_base-N_to_base-10.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\05.Convert_from_base-N_to_base-10\obj\Debug\05.Convert_from_base-N_to_base-10.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\12.Character_Multiplier\bin\Debug\12.Character_Multiplier.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\12.Character_Multiplier\bin\Debug\12.Character_Multiplier.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\12.Character_Multiplier\bin\Debug\12.Character_Multiplier.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\12.Character_Multiplier\obj\Debug\12.Character_Multiplier.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\12.Character_Multiplier\obj\Debug\12.Character_Multiplier.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\12.Character_Multiplier\obj\Debug\12.Character_Multiplier.csprojResolveAssemblyReference.cache

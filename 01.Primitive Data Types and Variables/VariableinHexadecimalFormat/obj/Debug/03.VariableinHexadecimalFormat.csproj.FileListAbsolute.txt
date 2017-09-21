@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\VariableinHexadecimalFormat\obj\Debug\03.VariableinHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\VariableinHexadecimalFormat\obj\Debug\03.VariableinHexadecimalFormat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\FloatorDouble\obj\Debug\02FloatorDouble.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\FloatorDouble\obj\Debug\FloatorDouble.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\FloatorDouble\obj\Debug\FloatorDouble.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\FloatorDouble\obj\Debug\02FloatorDouble.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\FloatorDouble\obj\Debug\FloatorDouble.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Primitive Data Types and Variables\FloatorDouble\obj\Debug\FloatorDouble.pdb

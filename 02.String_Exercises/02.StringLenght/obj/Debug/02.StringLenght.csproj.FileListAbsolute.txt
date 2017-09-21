@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02.StringLenght\bin\Debug\02.StringLenght.exe.config
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02.StringLenght\bin\Debug\02.StringLenght.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02.StringLenght\bin\Debug\02.StringLenght.pdb
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02.StringLenght\obj\Debug\02.StringLenght.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02.StringLenght\obj\Debug\02.StringLenght.pdb

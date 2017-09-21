@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\06.Square Numbers\bin\Debug\06.Square Numbers.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\06.Square Numbers\obj\Debug\06.Square Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\06.Square Numbers\bin\Debug\06.Square Numbers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\06.Square Numbers\bin\Debug\06.Square Numbers.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\06.Square Numbers\obj\Debug\06.Square Numbers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\06.Square Numbers\obj\Debug\06.Square Numbers.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\06.Square Numbers\bin\Debug\06.Square Numbers.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\06.Square Numbers\obj\Debug\06.Square Numbers.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\06.Square Numbers\obj\Debug\06.Square Numbers.pdb

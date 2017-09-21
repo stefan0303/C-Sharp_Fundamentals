@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\06.Folders_Examples\bin\Debug\06.Folders_Examples.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\06.Folders_Examples\bin\Debug\06.Folders_Examples.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\06.Folders_Examples\bin\Debug\06.Folders_Examples.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\06.Folders_Examples\obj\Debug\06.Folders_Examples.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\06.Folders_Examples\obj\Debug\06.Folders_Examples.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\06.Folders_Examples\obj\Debug\06.Folders_Examples.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\06.Folders_Examples\bin\Debug\06.Folders_Examples.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\06.Folders_Examples\obj\Debug\06.Folders_Examples.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\06.Folders_Examples\obj\Debug\06.Folders_Examples.pdb

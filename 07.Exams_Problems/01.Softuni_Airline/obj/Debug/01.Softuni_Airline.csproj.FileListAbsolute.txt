@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\01.Softuni_Airline\bin\Debug\01.Softuni_Airline.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\01.Softuni_Airline\bin\Debug\01.Softuni_Airline.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\01.Softuni_Airline\bin\Debug\01.Softuni_Airline.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\01.Softuni_Airline\obj\Debug\01.Softuni_Airline.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\01.Softuni_Airline\obj\Debug\01.Softuni_Airline.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\01.Softuni_Airline\obj\Debug\01.Softuni_Airline.pdb

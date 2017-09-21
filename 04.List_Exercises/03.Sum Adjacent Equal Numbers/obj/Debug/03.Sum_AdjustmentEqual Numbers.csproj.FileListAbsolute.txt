@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\03.Sum Adjacent Equal Numbers\bin\Debug\03.Sum Adjacent Equal Numbers.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\03.Sum Adjacent Equal Numbers\bin\Debug\03.Sum Adjacent Equal Numbers.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\03.Sum Adjacent Equal Numbers\bin\Debug\03.Sum Adjacent Equal Numbers.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\03.Sum Adjacent Equal Numbers\obj\Debug\03.Sum Adjacent Equal Numbers.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\03.Sum Adjacent Equal Numbers\obj\Debug\03.Sum Adjacent Equal Numbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\02.Match_Phone_Number\bin\Debug\02.Match_Phone_Number.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\02.Match_Phone_Number\bin\Debug\02.Match_Phone_Number.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\02.Match_Phone_Number\bin\Debug\02.Match_Phone_Number.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\02.Match_Phone_Number\obj\Debug\02.Match_Phone_Number.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\02.Match_Phone_Number\obj\Debug\02.Match_Phone_Number.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\02.Match_Phone_Number\obj\Debug\02.Match_Phone_Number.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\02.Match_Phone_Number\bin\Debug\02.Match_Phone_Number.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\02.Match_Phone_Number\obj\Debug\02.Match_Phone_Number.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\02.Match_Phone_Number\obj\Debug\02.Match_Phone_Number.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\02.Match_Phone_Number\bin\Debug\02.Match_Phone_Number.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\02.Match_Phone_Number\bin\Debug\02.Match_Phone_Number.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\02.Match_Phone_Number\obj\Debug\02.Match_Phone_Number.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\08.Multyply_big_Number\bin\Debug\08.Multyply_big_Number.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\08.Multyply_big_Number\bin\Debug\08.Multyply_big_Number.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\08.Multyply_big_Number\bin\Debug\08.Multyply_big_Number.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\08.Multyply_big_Number\obj\Debug\08.Multyply_big_Number.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\08.Multyply_big_Number\obj\Debug\08.Multyply_big_Number.pdb

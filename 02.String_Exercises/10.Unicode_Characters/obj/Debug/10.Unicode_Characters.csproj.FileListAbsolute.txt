@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\10.Unicode_Characters\bin\Debug\10.Unicode_Characters.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\10.Unicode_Characters\obj\Debug\10.Unicode_Characters.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\10.Unicode_Characters\bin\Debug\10.Unicode_Characters.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\10.Unicode_Characters\bin\Debug\10.Unicode_Characters.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\10.Unicode_Characters\obj\Debug\10.Unicode_Characters.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\10.Unicode_Characters\obj\Debug\10.Unicode_Characters.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\10.Unicode_Characters\bin\Debug\10.Unicode_Characters.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\10.Unicode_Characters\obj\Debug\10.Unicode_Characters.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\10.Unicode_Characters\obj\Debug\10.Unicode_Characters.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\10.Unicode_Characters\bin\Debug\10.Unicode_Characters.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\10.Unicode_Characters\bin\Debug\10.Unicode_Characters.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\10.Unicode_Characters\obj\Debug\10.Unicode_Characters.csprojResolveAssemblyReference.cache

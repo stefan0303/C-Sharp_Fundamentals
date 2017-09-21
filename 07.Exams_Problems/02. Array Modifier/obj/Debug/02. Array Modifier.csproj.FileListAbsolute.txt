@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Array Modifier\bin\Debug\_02.Array_Modifier.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Array Modifier\bin\Debug\_02.Array_Modifier.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Array Modifier\bin\Debug\_02.Array_Modifier.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Array Modifier\obj\Debug\02. Array Modifier.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Array Modifier\obj\Debug\_02.Array_Modifier.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Array Modifier\obj\Debug\_02.Array_Modifier.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Array Modifier\bin\Debug\_02.Array_Modifier.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Array Modifier\obj\Debug\_02.Array_Modifier.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Array Modifier\obj\Debug\_02.Array_Modifier.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Array Modifier\bin\Debug\_02.Array_Modifier.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Array Modifier\bin\Debug\_02.Array_Modifier.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Array Modifier\obj\Debug\02. Array Modifier.csprojResolveAssemblyReference.cache

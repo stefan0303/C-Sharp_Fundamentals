@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache

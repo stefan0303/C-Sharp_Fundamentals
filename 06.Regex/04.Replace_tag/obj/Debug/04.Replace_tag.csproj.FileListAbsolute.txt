@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\04.Replace_tag\bin\Debug\04.Replace_tag.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\04.Replace_tag\bin\Debug\04.Replace_tag.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\04.Replace_tag\bin\Debug\04.Replace_tag.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\04.Replace_tag\obj\Debug\04.Replace_tag.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\04.Replace_tag\obj\Debug\04.Replace_tag.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\04.Replace_tag\obj\Debug\04.Replace_tag.pdb

@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\07.Count Numbers\bin\Debug\07.Count Numbers.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\07.Count Numbers\bin\Debug\07.Count Numbers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\07.Count Numbers\bin\Debug\07.Count Numbers.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\07.Count Numbers\obj\Debug\07.Count Numbers.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\07.Count Numbers\obj\Debug\07.Count Numbers.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\List-Nakov video\List-nakov -video\07.Count Numbers\obj\Debug\07.Count Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\07.Count Numbers\bin\Debug\07.Count Numbers.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\07.Count Numbers\obj\Debug\07.Count Numbers.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\07.Count Numbers\obj\Debug\07.Count Numbers.pdb

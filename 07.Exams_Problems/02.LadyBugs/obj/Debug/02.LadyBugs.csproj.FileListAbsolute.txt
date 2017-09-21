@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\bin\Debug\02.LadyBugs.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\bin\Debug\02.LadyBugs.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\bin\Debug\02.LadyBugs.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\obj\Debug\02.LadyBugs.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\obj\Debug\02.LadyBugs.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\obj\Debug\02.LadyBugs.pdb

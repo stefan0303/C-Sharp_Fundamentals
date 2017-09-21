@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.Cubic_Message\bin\Debug\04.Cubic_Message.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.Cubic_Message\bin\Debug\04.Cubic_Message.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.Cubic_Message\bin\Debug\04.Cubic_Message.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.Cubic_Message\obj\Debug\04.Cubic_Message.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.Cubic_Message\obj\Debug\04.Cubic_Message.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04.Cubic_Message\obj\Debug\04.Cubic_Message.pdb

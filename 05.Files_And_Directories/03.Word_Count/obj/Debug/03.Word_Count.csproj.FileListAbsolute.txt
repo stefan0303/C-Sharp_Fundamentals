@@ -1,0 +1,15 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Files_Directories\03.Word_Count\bin\Debug\03.Word_Count.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Files_Directories\03.Word_Count\bin\Debug\03.Word_Count.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Files_Directories\03.Word_Count\bin\Debug\03.Word_Count.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Files_Directories\03.Word_Count\obj\Debug\03.Word_Count.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Files_Directories\03.Word_Count\obj\Debug\03.Word_Count.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Files_Directories\03.Word_Count\obj\Debug\03.Word_Count.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\03.Word_Count\bin\Debug\03.Word_Count.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\03.Word_Count\obj\Debug\03.Word_Count.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\Files_And_Directories\03.Word_Count\obj\Debug\03.Word_Count.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\03.Word_Count\bin\Debug\03.Word_Count.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\03.Word_Count\obj\Debug\03.Word_Count.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\03.Word_Count\obj\Debug\03.Word_Count.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\03.Word_Count\bin\Debug\03.Word_Count.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\03.Word_Count\bin\Debug\03.Word_Count.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\05.Files_And_Directories\03.Word_Count\obj\Debug\03.Word_Count.csprojResolveAssemblyReference.cache

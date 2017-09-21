@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.Array_Exercises\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.exe.config

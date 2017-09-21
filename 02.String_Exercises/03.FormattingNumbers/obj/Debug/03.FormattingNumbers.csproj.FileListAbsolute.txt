@@ -1,0 +1,6 @@
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe.config
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.pdb
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.pdb

@@ -1,0 +1,2 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\03.Array_Exercises\01.Allocate array\bin\Debug\01.Allocate array.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\03.Array_Exercises\01.Allocate array\bin\Debug\01.Allocate array.exe.config

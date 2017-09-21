@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\09Text_Filter\bin\Debug\09Text_Filter.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\09Text_Filter\bin\Debug\09Text_Filter.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\09Text_Filter\bin\Debug\09Text_Filter.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\09Text_Filter\obj\Debug\09Text_Filter.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\09Text_Filter\obj\Debug\09Text_Filter.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\09Text_Filter\obj\Debug\09Text_Filter.pdb
