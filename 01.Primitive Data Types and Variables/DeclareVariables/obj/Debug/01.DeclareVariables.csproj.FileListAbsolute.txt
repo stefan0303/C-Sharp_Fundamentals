@@ -1,8 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
