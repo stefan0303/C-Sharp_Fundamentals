@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.csprojResolveAssemblyReference.cache

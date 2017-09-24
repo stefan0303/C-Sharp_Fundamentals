@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\obj\Debug\QuotesinStrings.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\obj\Debug\QuotesinStrings.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\obj\Debug\07.QuotesinStrings.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\QuotesinStrings\obj\Debug\QuotesinStrings.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\QuotesinStrings\obj\Debug\QuotesinStrings.pdb
