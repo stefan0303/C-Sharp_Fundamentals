@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\13.Magic_exchange_words\bin\Debug\13.Magic_exchange_words.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\13.Magic_exchange_words\bin\Debug\13.Magic_exchange_words.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\13.Magic_exchange_words\bin\Debug\13.Magic_exchange_words.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\13.Magic_exchange_words\obj\Debug\13.Magic_exchange_words!!!.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\13.Magic_exchange_words\obj\Debug\13.Magic_exchange_words.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\13.Magic_exchange_words\obj\Debug\13.Magic_exchange_words.pdb

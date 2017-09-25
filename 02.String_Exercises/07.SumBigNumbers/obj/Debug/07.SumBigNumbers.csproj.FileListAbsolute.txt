@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\02.String_Exercises\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.pdb

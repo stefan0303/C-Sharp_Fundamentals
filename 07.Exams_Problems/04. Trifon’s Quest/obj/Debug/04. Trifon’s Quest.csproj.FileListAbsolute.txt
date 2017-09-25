@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Trifon’s Quest\bin\Debug\_04.Trifon_s_Quest.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Trifon’s Quest\bin\Debug\_04.Trifon_s_Quest.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Trifon’s Quest\bin\Debug\_04.Trifon_s_Quest.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Trifon’s Quest\obj\Debug\_04.Trifon_s_Quest.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Trifon’s Quest\obj\Debug\_04.Trifon_s_Quest.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Trifon’s Quest\obj\Debug\04. Trifon’s Quest.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04. Trifon’s Quest\bin\Debug\_04.Trifon_s_Quest.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04. Trifon’s Quest\obj\Debug\_04.Trifon_s_Quest.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04. Trifon’s Quest\obj\Debug\_04.Trifon_s_Quest.pdb

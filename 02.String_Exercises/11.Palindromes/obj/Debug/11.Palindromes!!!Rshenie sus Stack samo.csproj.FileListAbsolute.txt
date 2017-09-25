@@ -1,3 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\11.Palindromes\bin\Debug\11.Palindromes.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\11.Palindromes\obj\Debug\11.Palindromes.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\11.Palindromes\obj\Debug\11.Palindromes.pdb

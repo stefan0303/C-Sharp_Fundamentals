@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\bin\Debug\02.LadyBugs.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\obj\Debug\02.LadyBugs.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\obj\Debug\02.LadyBugs.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\bin\Debug\02.LadyBugs.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\bin\Debug\02.LadyBugs.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\02.LadyBugs\obj\Debug\02.LadyBugs.NE!!.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02.LadyBugs\bin\Debug\02.LadyBugs.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02.LadyBugs\obj\Debug\02.LadyBugs.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\02.LadyBugs\obj\Debug\02.LadyBugs.pdb

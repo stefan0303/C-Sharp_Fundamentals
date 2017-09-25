@@ -1,6 +1,0 @@
-c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02_Manul_String_Processing\bin\Debug\02_Manul_String_Processing.exe.config
-c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02_Manul_String_Processing\bin\Debug\02_Manul_String_Processing.exe
-c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02_Manul_String_Processing\bin\Debug\02_Manul_String_Processing.pdb
-c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02_Manul_String_Processing\obj\Debug\0002_Manul_String_Processing.csprojResolveAssemblyReference.cache
-c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02_Manul_String_Processing\obj\Debug\02_Manul_String_Processing.exe
-c:\users\stefan\documents\visual studio 2013\Projects\Exception Handling\02_Manul_String_Processing\obj\Debug\02_Manul_String_Processing.pdb

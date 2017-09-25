@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\04. ConvertFromBase-10\bin\Debug\_04.ConvertFromBase_10.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\04. ConvertFromBase-10\bin\Debug\_04.ConvertFromBase_10.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\04. ConvertFromBase-10\bin\Debug\_04.ConvertFromBase_10.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\04. ConvertFromBase-10\obj\Debug\04. ConvertFromBase-10.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\04. ConvertFromBase-10\obj\Debug\_04.ConvertFromBase_10.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\04. ConvertFromBase-10\obj\Debug\_04.ConvertFromBase_10.pdb

@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\01.Remove Negatives.Reshenie 2\bin\Debug\01.Remove Negatives.Reshenie 2.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\01.Remove Negatives.Reshenie 2\obj\Debug\01.Remove Negatives.Reshenie 2.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\01.Remove Negatives.Reshenie 2\obj\Debug\01.Remove Negatives.Reshenie 2.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\01.Remove Negatives.Reshenie 2\bin\Debug\01.Remove Negatives.Reshenie 2.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\04.List_Exercises\01.Remove Negatives.Reshenie 2\bin\Debug\01.Remove Negatives.Reshenie 2.pdb

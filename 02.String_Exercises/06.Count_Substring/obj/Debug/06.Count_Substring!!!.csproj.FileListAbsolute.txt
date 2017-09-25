@@ -1,5 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\06.Count_Substring\bin\Debug\06.Count_Substring.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\06.Count_Substring\obj\Debug\06.Count_Substring.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\06.Count_Substring\obj\Debug\06.Count_Substring.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\06.Count_Substring\bin\Debug\06.Count_Substring.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Exception Handling\06.Count_Substring\bin\Debug\06.Count_Substring.pdb

@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Target Multiplier\bin\Debug\03.Target Multiplier.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Target Multiplier\bin\Debug\03.Target Multiplier.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Target Multiplier\bin\Debug\03.Target Multiplier.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Target Multiplier\obj\Debug\03.Target Multiplier.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Target Multiplier\obj\Debug\03.Target Multiplier.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Target Multiplier\obj\Debug\03.Target Multiplier.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\03.Target Multiplier\bin\Debug\03.Target Multiplier.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\03.Target Multiplier\obj\Debug\03.Target Multiplier.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\03.Target Multiplier\obj\Debug\03.Target Multiplier.pdb

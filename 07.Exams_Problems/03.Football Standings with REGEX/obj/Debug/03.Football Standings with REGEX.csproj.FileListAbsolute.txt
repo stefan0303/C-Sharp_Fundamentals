@@ -1,2 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\03.Football Standings with REGEX\bin\Debug\03.Football Standings with REGEX.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\03.Football Standings with REGEX\bin\Debug\03.Football Standings with REGEX.exe.config

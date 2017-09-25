@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\05.Extract_emails\bin\Debug\05.Extract_emails.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\05.Extract_emails\bin\Debug\05.Extract_emails.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\05.Extract_emails\bin\Debug\05.Extract_emails.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\05.Extract_emails\obj\Debug\05.Extract_emails.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\05.Extract_emails\obj\Debug\05.Extract_emails.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Regular_Expressions\05.Extract_emails\obj\Debug\05.Extract_emails.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\05.Extract_emails\bin\Debug\05.Extract_emails.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\05.Extract_emails\obj\Debug\05.Extract_emails.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\06.Regex\05.Extract_emails\obj\Debug\05.Extract_emails.pdb

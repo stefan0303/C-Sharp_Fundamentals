@@ -1,2 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\EXAM.ProgramFundamentals\Exams Program fundamentals\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\07.Exams_Problems\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
